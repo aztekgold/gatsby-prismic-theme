@@ -1,0 +1,12 @@
+{
+    "Main": {
+      "hero_image": {
+        "type": "Image",
+        "config": {
+          "constraint": {},
+          "thumbnails": [],
+          "label": "Hero Image"
+        }
+      }
+    }
+  }
